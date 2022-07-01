@@ -7,6 +7,7 @@
  * based on a condition
  * Return: always 0
 */
+
 {
 	int n;
 
