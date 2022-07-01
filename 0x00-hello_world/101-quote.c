@@ -2,12 +2,12 @@
 #include <unistd.h>
 
 /**
- * main - prints exactly the stated quote
+ * main - startes the function that prints the quote
  *
- * followed by a new line
+ * followed by  NEW LINE TO THE standard error
  *
- * return: always 0(success)
- * /
+ * Return: always 0 (success)
+*/
 
 int main(void)
 {
