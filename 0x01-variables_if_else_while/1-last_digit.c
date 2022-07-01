@@ -6,13 +6,13 @@
  * main -> assign a random number to the variable n each time it is executed
  * based on a condition
  * Return: always 0
-
+*/
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	printf("last digit of "%d "is  ",n);
+	printf("last digit of %d is  ",n);
 	if (n > 5)
 	{
 		printf("greater than 5");
