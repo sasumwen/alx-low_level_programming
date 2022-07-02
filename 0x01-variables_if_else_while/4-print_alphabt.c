@@ -3,8 +3,8 @@
 /**
  * main -> program ot prnt alphabet in lower case
  * followed by a new line
- * return: always 0
-*/
+ *Return: always 0
+ */
 
 int main(void) /* program starts */
 {
