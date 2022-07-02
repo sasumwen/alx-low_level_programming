@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -> program to prin all combo of 
+ * main -> program to prin all combo of
  * single digit numbers
  * Return: always 0
  */
