@@ -6,7 +6,7 @@
  * Return: abs value of num
  */
 
-int _abs(int n);
+int _abs(int n)
 {
 	if (n < 0)
 		n = -n;
